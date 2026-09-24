@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```
 No paid services or API keys are required anywhere for the graded baseline of
 any module. See each module's README for specifics.
+Setup and project instructions are included in this repository.
 ## Running each module end to end
 **1. Data Pipeline**
 ```bash
