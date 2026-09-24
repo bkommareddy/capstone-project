@@ -41,3 +41,4 @@ cd support_assistant
 docker build -t zepto-support-assistant .
 docker run -p 7860:7860 zepto-support-assistant
 ```
+Project documentation updated.
